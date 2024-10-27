@@ -1,0 +1,19 @@
+# Node.js dependencies
+/node_modules
+
+# Logs
+logs
+*.log
+
+# Playwright test results
+test-results/
+
+# VSCode settings
+.vscode
+
+# Build artifacts
+build
+dist
+
+# TypeScript cache
+*.tsbuildinfo
